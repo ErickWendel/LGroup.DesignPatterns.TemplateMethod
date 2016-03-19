@@ -1,0 +1,5 @@
+D:\LGroup\LGroup.TemplateMethod\LGroup.TemplateMethod.Model\bin\Debug\LGroup.TemplateMethod.Model.dll
+D:\LGroup\LGroup.TemplateMethod\LGroup.TemplateMethod.Model\bin\Debug\LGroup.TemplateMethod.Model.pdb
+D:\LGroup\LGroup.TemplateMethod\LGroup.TemplateMethod.Model\obj\Debug\LGroup.TemplateMethod.Model.dll
+D:\LGroup\LGroup.TemplateMethod\LGroup.TemplateMethod.Model\obj\Debug\LGroup.TemplateMethod.Model.pdb
+D:\LGroup\LGroup.TemplateMethod\LGroup.TemplateMethod.Model\obj\Debug\LGroup.TemplateMethod.Model.csprojResolveAssemblyReference.cache
